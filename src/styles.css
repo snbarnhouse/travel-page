@@ -1,7 +1,29 @@
-h1 {
+body {
   font-family: "Poppins", sans-serif;
-  font-style: normal;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+header h1 {
   font-weight: 700;
   font-size: 96px;
-  line-height: 144px;
+  line-height: 1.5;
+}
+
+header h2 {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1.5;
 }
