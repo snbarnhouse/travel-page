@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: #272044;;
+  background: #272044;
 }
 
 .container {
@@ -9,7 +9,10 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
+  background-image: linear-gradient(
+      rgba(39, 32, 68, 0.6),
+      rgba(39, 32, 68, 0.6)
+    ),
     url("../images/header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -55,7 +58,25 @@ header a {
   color: #272044;
 }
 
-@media (max-width: 900px) {
+footer {
+  color: white;
+  background-image: linear-gradient(
+      rgba(39, 32, 68, 0.9),
+      rgba(39, 32, 68, 0.9)
+    ),
+    url("/images/footer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+footer h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+@media (max-width: 960px) {
   header {
     padding: 60px 0;
   }
@@ -71,5 +92,4 @@ header a {
   header h3 {
     font-size: 12px;
   }
-
 }
