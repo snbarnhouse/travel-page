@@ -17,6 +17,37 @@ body {
 section {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 100px 100px;
+}
+
+main {
+  background-color: white;
+}
+
+main h3 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #272044;
+  opacity: 0.3;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+main h2 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.25;
+  color: #272044;
+  margin: 0;
+}
+
+main p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #272044;
+  opacity: 0.7;
 }
 
 header {
@@ -78,7 +109,6 @@ footer {
     url("/images/footer.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 0;
 }
 
 footer h3 {
