@@ -10,14 +10,25 @@ body {
 
 .grid {
   display: grid;
-  grid-template-columns: 1fr 2fr 2fr;
   grid-gap: 64px;
+}
+
+.grid-2-columns {
+  grid-template-columns: 1fr 1fr;
+}
+
+.footer-grid {
+  grid-template-columns: 1fr 2fr 2fr;
 }
 
 section {
   max-width: 1200px;
   margin: 0 auto;
   padding: 100px 100px;
+}
+
+.waterfall-pic {
+  max-width: 100%;
 }
 
 main {
@@ -154,5 +165,20 @@ footer a {
 
   header h3 {
     font-size: 12px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    grid-gap: 32px;
+  }
+
+  section {
+    padding: 30px;
+  }
+
+  .waterfall-pic {
+    max-width: 60%;
+    display: block;
+    margin: 0 auto;
   }
 }
