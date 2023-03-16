@@ -44,6 +44,15 @@ section {
   padding: 30px;
 }
 
+.card-header.grid {
+  grid-gap: 0;
+}
+
+.embed {
+  width: 100%;
+  aspect-ratio: 2.1 / 1.6;
+}
+
 main h4 {
   font-weight: 700;
   font-size: 24px;
@@ -243,5 +252,13 @@ footer a {
     max-width: 60%;
     display: block;
     margin: 0 auto;
+  }
+
+  .card-header img {
+    display: none;
+  }
+
+  .embed {
+    aspect-ratio: 16 / 9;
   }
 }
