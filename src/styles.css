@@ -204,7 +204,7 @@ footer h3 {
   line-height: 1.5;
 }
 
-footer p {
+footer p, footer small {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
