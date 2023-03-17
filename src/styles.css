@@ -224,6 +224,7 @@ footer li {
 footer a {
   color: white;
   opacity: 0.6;
+  text-decoration: none;
 }
 
 @media (max-width: 960px) {
