@@ -2,11 +2,11 @@
 
 ## Description/Features
 
-A world clock app that provides the user with the current date and time of major cities around the world. The user also has the ability to search for other cities and their current location timezone.
+This is landing page for the city of Asheville. It provides information for traveling to Asheville including, historical information about the city, hiking spots, photos, and links for maps, transportation, and the Asheville airport. 
 
 ## Tech Stack
 
-This app was made using HTML, CSS, JavaScript, moment.js, and moment.js timezone.
+This app was made using HTML, custom CSS (no Boostrap), CSS grids, and HTML embeds. The site is also fully responsive.
 
 ### Links
 
