@@ -15,4 +15,4 @@ GitHub Repository: https://github.com/snbarnhouse/travel-page
 Deployed:  https://asheville-travel-page.netlify.app/
 
 
-![World Clock](https://user-images.githubusercontent.com/77131387/222772856-32c14b5d-7155-400f-963b-aedb9e0b00d6.png)
+![Travel Page](https://user-images.githubusercontent.com/77131387/226390601-aac08d15-01fa-4ed3-b81b-c393aab06009.png)
