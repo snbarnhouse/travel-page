@@ -2,7 +2,7 @@
 
 ## Description/Features
 
-This is landing page for the city of Asheville. It provides information for traveling to Asheville including, historical information about the city, hiking spots, photos, and links for maps, transportation, and the Asheville airport. 
+This is a landing page for the city of Asheville. It provides information for traveling to Asheville including, historical information about the city, hiking spots, photos, and links for maps, transportation, and the local airport. 
 
 ## Tech Stack
 
@@ -10,9 +10,9 @@ This app was made using HTML, custom CSS (no Boostrap), CSS grids, and HTML embe
 
 ### Links
 
-GitHub Repository: https://github.com/snbarnhouse/world-clock
+GitHub Repository: https://github.com/snbarnhouse/travel-page
 
-Deployed:  https://world-clock-mjs.netlify.app/
+Deployed:  https://asheville-travel-page.netlify.app/
 
 
 ![World Clock](https://user-images.githubusercontent.com/77131387/222772856-32c14b5d-7155-400f-963b-aedb9e0b00d6.png)
